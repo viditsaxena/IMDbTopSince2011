@@ -10,13 +10,11 @@ body {
   color: #606c71; }
 
 a {
-  color: #1e6bb8;
+  color: white;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-#name {
-  color: white;
-}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
